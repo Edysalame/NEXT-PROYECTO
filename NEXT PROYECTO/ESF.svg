@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <filter id="svg_8_blur">
+   <feGaussianBlur stdDeviation="0.8" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000000" transform="matrix(9.514619827270508,0,0,4.7059228965346165,-1010.4458998143673,-636.4441472726085) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="191.374799" x="138.819299" stroke-width="0" fill="#000000">ESF</text>
+  <rect stroke="#000000" id="svg_7" height="144.000005" width="386.999983" y="146" x="117" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="none"/>
+  <rect filter="url(#svg_8_blur)" stroke="#000000" id="svg_8" height="141.000005" width="418.000006" y="146" x="106" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="none"/>
+ </g>
+</svg>
